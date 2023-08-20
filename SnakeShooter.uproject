@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.2",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SnakeShooter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject",
+				"UMG",
+				"DeveloperSettings",
+				"AIModule"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
