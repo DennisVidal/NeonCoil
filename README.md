@@ -4,7 +4,7 @@ A small game created to become more familiar with some of Unreal's (newer) compo
  
 The game itself combines gameplay aspects from games like _Snake_ and _Space Invaders_ to create a twist on familiar game mechanics. 
 
-Showcase: 
+Gameplay: 
 https://www.youtube.com/watch?v=k10owDuPYw4
 
 ![Gameplay1](https://github.com/DennisVidal/NeonCoil/assets/56507722/54b26aa4-430a-4f8d-94ee-57d1e4f85d3c)
